@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-carlsbad",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "City of Carlsbad GIS — Carlsbad, California open geospatial data (ArcGIS).",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-83361484d3ca0316fb22ac5a05463379a58e4e5e778962f1ee95fe14b19780d4",
-    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+    "sourceHash": "v1-3c76acf301deb51c804e4060fcedae5d853a06bb5ce600a26e43e1bb9344c9f6",
+    "sourceCommit": "71f5325b13bb0ea0de2f0f7207885962ec91a484"
   }
 }
